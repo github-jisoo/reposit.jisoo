@@ -36,6 +36,7 @@ public class HotelTest {
 		Hotel hotel = new Hotel();
 		hotel.add(5, "호돌이");
 		hotel.add(7, "길동이");
+		hotel.add(8, "초롱이");
 		hotel.show();
 	}
 }
